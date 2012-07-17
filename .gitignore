@@ -1,7 +1,14 @@
+target/
+bin/
 *.class
+*~
+*.orig
 *.jar
-*.war
-*.ear
+.project
+.settings
+.classpath
+.metadata
+.idea
 .DS_Store*
 ehthumbs.db
 Icon?
